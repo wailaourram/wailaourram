@@ -336,7 +336,7 @@ mindmap
 
 **📍 Based in Tétouan, Morocco**
 
-**📞 Phone:** +212 6 09 22 93 38
+
 
 </div>
 
