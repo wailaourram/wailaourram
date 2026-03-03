@@ -27,116 +27,198 @@
 
 <br>
 
-<!-- Mind-Blowing About Section -->
+<!-- About Me Section - NORMAL DISPLAY -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> DEVELOPER PROFILE <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> ABOUT ME <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
 </div>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-```javascript
-class DeveloperProfile {
-  constructor() {
-    this.name = "Wail AOURRAM";
-    this.role = "Full Stack & Mobile Developer";
-    this.location = "Tétouan, Morocco 🇲🇦";
-    this.workspace = {
-      os: "Linux",
-      editor: "VS Code",
-      browser: "Chrome",
-      terminal: "Zsh"
-    };
-  }
+<div align="center">
 
-  get skills() {
-    return {
-      languages: ["Java", "JavaScript", "TypeScript", "Dart", "PHP", "C++", "Python"],
-      frontend: ["React", "Tailwind CSS", "HTML5", "CSS3", "Bootstrap"],
-      backend: ["Spring Boot", "Laravel", "Node.js", "Express"],
-      mobile: ["Flutter", "React Native", "Dart"],
-      databases: ["MySQL", "PostgreSQL", "Supabase", "Firebase"],
-      tools: ["Git", "Docker", "Linux", "Figma", "Postman"]
-    };
-  }
+### 👨‍💻 **Profile**
 
-  get ambition() {
-    return "Building the future, one line of code at a time 🚀";
-  }
-}
+</div>
 
-const wail = new DeveloperProfile();
-console.log(wail.ambition);
-```
+**Name:** Wail AOURRAM  
+**Role:** Full Stack & Mobile Developer  
+**Education:** DUT - Web & Mobile Development  
+**Institution:** EST Nador (UMP)  
+**Location:** Tétouan, Morocco 🇲🇦  
+**Graduation:** 2025
 
-<br clear="right"/>
+<div align="center">
+
+🎯 **Passionate about creating innovative digital solutions**
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🚀 **Expertise**
+
+</div>
+
+**Frontend:** React, TypeScript, Tailwind CSS  
+**Backend:** Spring Boot, Laravel, Node.js  
+**Mobile:** Flutter, React Native  
+**Databases:** MySQL, PostgreSQL, Supabase  
+**Tools:** Docker, Git, Linux, Figma
+
+<div align="center">
+
+💡 **Currently learning Microservices & Cloud**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <!-- Epic Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-<!-- Insane Tech Stack -->
+<!-- Tech Stack with SKILLICONS -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> TECHNOLOGY ARSENAL <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"> TECHNOLOGY STACK <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
 
 <br>
 
-### 🎨 Frontend Mastery
+### 🎨 Frontend Development
 
-<a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-<a href="https://html.spec.whatwg.org" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind CSS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+</tr>
+</table>
 
-<br>
+### ⚡ Backend & Languages
 
-### ⚡ Backend Power
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+<br>Laravel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+</tr>
+</table>
 
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /></a>
-<a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-<a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
-<a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
-<a href="https://dotnet.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
+### 📱 Mobile & Databases
 
-<br>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+<br>Dart
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+</tr>
+</table>
 
-### 📱 Mobile Excellence
+### 🛠️ Tools & DevOps
 
-<a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-<a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
-<a href="https://reactnative.dev" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /></a>
-
-<br>
-
-### 💾 Database Expertise
-
-<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href="https://supabase.com" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /></a>
-<a href="https://www.oracle.com" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-
-<br>
-
-### 🛠️ DevOps & Tools
-
-<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
-<a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-<a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
-<a href="https://wordpress.org" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -150,7 +232,7 @@ console.log(wail.ambition);
 <!-- Legendary Projects -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> LEGENDARY PROJECTS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50">
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> FEATURED PROJECTS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50">
 
 </div>
 
@@ -170,17 +252,17 @@ console.log(wail.ambition);
 
 **Revolutionary Fitness Platform**
 
-Connecting users with gyms through cutting-edge mobile technology
+Connecting users with gyms through mobile technology
 
-**⚡ Epic Features:**
+**⚡ Key Features:**
 - 🗺️ Real-time GPS gym discovery
 - 📱 QR code smart check-in
 - 💪 AI-powered workout plans
 - 🥗 Personalized nutrition tracker
-- 📊 Advanced progress analytics
-- 👥 Social fitness community
+- 📊 Advanced analytics
+- 👥 Social community
 
-**🎯 Impact:** 500+ users • 4.8★ rating • 15+ gym partners
+**🎯 Impact:** 500+ users • 4.8★ rating
 
 </div>
 
@@ -199,17 +281,17 @@ Connecting users with gyms through cutting-edge mobile technology
 
 **Complete Restaurant Solution**
 
-Full-stack platform revolutionizing food service operations
+Full-stack platform for food operations
 
-**⚡ Epic Features:**
+**⚡ Key Features:**
 - 🛒 Advanced online ordering
-- 📊 Real-time analytics dashboard
-- 🚚 Intelligent delivery routing
-- 💳 Multi-payment integration
-- 📱 Mobile-first responsive
-- 👨‍💼 Comprehensive admin panel
+- 📊 Real-time dashboard
+- 🚚 Intelligent delivery
+- 💳 Payment integration
+- 📱 Responsive design
+- 👨‍💼 Admin panel
 
-**🎯 Tech Stack:** Laravel • PHP • MySQL • Bootstrap
+**🎯 Tech:** Laravel • PHP • MySQL
 
 </div>
 
@@ -230,17 +312,17 @@ Full-stack platform revolutionizing food service operations
 
 **Enterprise Reservation System**
 
-Professional-grade hotel management platform
+Professional hotel management platform
 
-**⚡ Epic Features:**
+**⚡ Key Features:**
 - 🔍 Smart search & filtering
-- 📅 Dynamic availability system
-- 💰 Intelligent pricing engine
-- 📊 Business intelligence dashboard
-- 🔐 Bank-level security
+- 📅 Dynamic availability
+- 💰 Intelligent pricing
+- 📊 Analytics dashboard
+- 🔐 Secure payments
 - 📈 Revenue optimization
 
-**🎯 Architecture:** Spring Boot • Microservices • MySQL
+**🎯 Tech:** Spring Boot • Java • MySQL
 
 </div>
 
@@ -259,17 +341,17 @@ Professional-grade hotel management platform
 
 **Government Digital Platform**
 
-Official website for Drâa-Tafilalet region
+Official Drâa-Tafilalet website
 
-**⚡ Epic Features:**
-- 🎨 Custom WordPress architecture
-- ⚡ Lightning-fast performance
-- 📈 SEO mastery (+45% visibility)
-- 📱 Fully responsive design
-- 🔧 Custom plugin ecosystem
+**⚡ Key Features:**
+- 🎨 Custom architecture
+- ⚡ Fast performance
+- 📈 SEO (+45% visibility)
+- 📱 Responsive design
+- 🔧 Custom plugins
 - 🚀 Advanced caching
 
-**🎯 Achievement:** Professional internship project 2024
+**🎯 Internship:** Summer 2024
 
 </div>
 
@@ -284,10 +366,10 @@ Official website for Drâa-Tafilalet region
 
 <br>
 
-<!-- Mind-Blowing Stats -->
+<!-- GitHub Stats -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"> PERFORMANCE METRICS <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50">
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"> GITHUB STATISTICS <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50">
 
 <br>
 
@@ -307,10 +389,10 @@ Official website for Drâa-Tafilalet region
 
 <br>
 
-<!-- Experience -->
+<!-- Experience & Education -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"> PROFESSIONAL JOURNEY <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50">
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"> EXPERIENCE & EDUCATION <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50">
 
 </div>
 
@@ -330,17 +412,14 @@ Official website for Drâa-Tafilalet region
 🏢 Drâa-Tafilalet Regional Government  
 📅 July - August 2024 • 2 months
 
-```yaml
-achievements:
-  - Designed & deployed institutional website
-  - SEO improvement: +45% organic traffic
-  - Custom WordPress theme development
-  - Plugin architecture implementation
-  - Performance optimization: 40% faster
-  - Client satisfaction: Exceptional
-```
+**Achievements:**
+- ✅ Designed institutional website
+- ✅ SEO improvement: +45%
+- ✅ Custom WordPress solutions
+- ✅ Performance optimization
+- ✅ Client satisfaction: High
 
-**Stack:** WordPress • PHP • MySQL • JavaScript • SEO
+**Technologies:** WordPress • PHP • MySQL • JavaScript
 
 </td>
 <td width="50%" valign="top">
@@ -357,15 +436,12 @@ achievements:
 🏫 EST Nador - UMP  
 📅 2023 - 2025 • Graduate
 
-```yaml
-curriculum:
-  - Advanced mobile app development
-  - Full-stack web engineering
-  - Database architecture & design
-  - Software engineering principles
-  - Agile & Scrum methodologies
-  - DevOps & Cloud computing
-```
+**Curriculum:**
+- ✅ Mobile app development
+- ✅ Full-stack web engineering
+- ✅ Database architecture
+- ✅ Software engineering
+- ✅ Agile methodologies
 
 **Baccalauréat** • Sciences Physiques • 2021
 
@@ -380,40 +456,82 @@ curriculum:
 
 <br>
 
-<!-- Epic Connect -->
+<!-- Skills & Languages -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384c35-4b1c-4b96-8a4c-8b45c8c1a78e.png" width="50"> CONNECT WITH ME <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384c35-4b1c-4b96-8a4c-8b45c8c1a78e.png" width="50">
+## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50"> SKILLS & LANGUAGES <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎯 Core Skills
+
+</div>
+
+⭐ Problem Solving  
+⭐ Team Collaboration  
+⭐ Fast Learning  
+⭐ Communication  
+⭐ Time Management  
+⭐ Creativity  
+⭐ Adaptability
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌍 Languages
+
+</div>
+
+**Arabic** 🇲🇦 - Native  
+**French** 🇫🇷 - Fluent  
+**English** 🇬🇧 - Professional
+
+<br>
+
+**Currently Learning:**  
+☁️ Cloud Architecture  
+🤖 AI Integration  
+📊 System Design
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Epic Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<!-- Connect Section - NO CODE -->
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384c35-4b1c-4b96-8a4c-8b45c8c1a78e.png" width="50"> LET'S CONNECT <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384c35-4b1c-4b96-8a4c-8b45c8c1a78e.png" width="50">
 
 <br>
 
 <a href="https://linkedin.com/in/wail-aourram" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&logoSize=auto" height="40"/>
 </a>
-<a href="mailto:wail.aourram.23@ump.ac.ma">
+<a href="mailto:aourramwail@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&logoSize=auto" height="40"/>
 </a>
 <a href="https://github.com/wailaourram" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge&logoSize=auto" height="40"/>
 </a>
-<a href="https://twitter.com/wailaourram" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=for-the-badge&logoSize=auto" height="40"/>
-</a>
 
 <br><br>
 
-```javascript
-const contact = {
-  email: "wail.aourram.23@ump.ac.ma",
-  location: "Tétouan, Morocco 🇲🇦",
-  availability: "Open to opportunities 🚀",
-  remote: "Available worldwide 🌍",
-  languages: ["Arabic 🇲🇦", "French 🇫🇷", "English 🇬🇧"]
-};
 
-// Let's build something legendary together!
-console.log("Ready to innovate? Let's connect! 🚀");
-```
 
 <br>
 
@@ -421,15 +539,11 @@ console.log("Ready to innovate? Let's connect! 🚀");
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-<br>
-
 **🌟 Made with 💜 by Wail AOURRAM 🌟**
 
-**© 2025 • Crafted with passion and dedication**
+**© 2025 • All Rights Reserved**
 
-<br>
+<br><br>
 
 </div>
 
