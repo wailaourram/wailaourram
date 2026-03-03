@@ -493,7 +493,7 @@ EST Nador - Université Mohammed Premier
 <a href="https://linkedin.com/in/wail-aourram" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-<a href="mailto:wail.aourram.23@ump.ac.ma">
+<a href="mailto:aourramwail@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
 <a href="https://github.com/wailaourram" target="_blank">
@@ -502,7 +502,7 @@ EST Nador - Université Mohammed Premier
 
 <br><br>
 
-**Email:** wail.aourram.23@ump.ac.ma  
+**Email:** aourramwail@gmail.com  
 **Location:** Tétouan, Morocco  
 **Status:** Open to opportunities  
 **Remote:** Available worldwide
