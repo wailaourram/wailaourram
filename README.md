@@ -219,6 +219,12 @@ Currently learning Microservices Architecture and Cloud Technologies.
 <h3 align="center">AZ FITNESS</h3>
 
 <div align="center">
+  
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+
+
 **Revolutionary Fitness Platform**
 
 Mobile application connecting users with gyms
@@ -246,7 +252,6 @@ Mobile application connecting users with gyms
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100%">
 
 **Complete Restaurant Solution**
 
@@ -277,7 +282,6 @@ Full-stack platform for restaurant operations
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100%">
 
 **Enterprise Reservation System**
 
@@ -306,7 +310,6 @@ Professional hotel management platform
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100%">
 
 **Government Digital Platform**
 
@@ -354,8 +357,6 @@ Official website for Drâa-Tafilalet region
 <br>
 
 <!-- Epic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <br>
 
 <!-- Experience & Education -->
@@ -373,7 +374,6 @@ Official website for Drâa-Tafilalet region
 
 ### WORK EXPERIENCE
 
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="300">
 
 </div>
 
@@ -398,7 +398,6 @@ July - August 2024 • 2 months
 
 ### EDUCATION
 
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="300">
 
 </div>
 
