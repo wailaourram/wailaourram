@@ -7,7 +7,7 @@
 
 <!-- Glowing Neon Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=FULL+STACK+DEVELOPER+%F0%9F%92%BB;MOBILE+ARCHITECT+%F0%9F%93%B1;DIGITAL+INNOVATOR+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=80&lines=FULL+STACK+DEVELOPER;MOBILE+ARCHITECT;DIGITAL+INNOVATOR" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -27,60 +27,36 @@
 
 <br>
 
-<!-- About Me Section - NORMAL DISPLAY -->
+<!-- About Me Section with Coding GIF -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> ABOUT ME <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<div align="center">
-
-### 👨‍💻 **Profile**
-
-</div>
+<br>
 
 **Name:** Wail AOURRAM  
 **Role:** Full Stack & Mobile Developer  
 **Education:** DUT - Web & Mobile Development  
 **Institution:** EST Nador (UMP)  
-**Location:** Tétouan, Morocco 🇲🇦  
+**Location:** Tétouan, Morocco  
 **Graduation:** 2025
 
-<div align="center">
+**Expertise:**
+- Frontend: React, TypeScript, Tailwind CSS
+- Backend: Spring Boot, Laravel, Node.js
+- Mobile: Flutter, React Native
+- Databases: MySQL, PostgreSQL, Supabase
+- DevOps: Docker, Git, Linux
 
-🎯 **Passionate about creating innovative digital solutions**
+**Passionate about creating innovative digital solutions and building scalable applications.**
 
-</div>
+Currently learning Microservices Architecture and Cloud Technologies.
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🚀 **Expertise**
-
-</div>
-
-**Frontend:** React, TypeScript, Tailwind CSS  
-**Backend:** Spring Boot, Laravel, Node.js  
-**Mobile:** Flutter, React Native  
-**Databases:** MySQL, PostgreSQL, Supabase  
-**Tools:** Docker, Git, Linux, Figma
-
-<div align="center">
-
-💡 **Currently learning Microservices & Cloud**
-
-</div>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br>
 
@@ -96,7 +72,7 @@
 
 <br>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <table>
 <tr>
@@ -127,7 +103,7 @@
 </tr>
 </table>
 
-### ⚡ Backend & Languages
+### Backend & Languages
 
 <table>
 <tr>
@@ -158,7 +134,7 @@
 </tr>
 </table>
 
-### 📱 Mobile & Databases
+### Mobile & Databases
 
 <table>
 <tr>
@@ -189,7 +165,7 @@
 </tr>
 </table>
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 
 <table>
 <tr>
@@ -229,7 +205,7 @@
 
 <br>
 
-<!-- Legendary Projects -->
+<!-- Featured Projects -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> FEATURED PROJECTS <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50">
@@ -240,7 +216,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏋️ AZ FITNESS</h3>
+<h3 align="center">AZ FITNESS</h3>
 
 <div align="center">
   
@@ -252,24 +228,24 @@
 
 **Revolutionary Fitness Platform**
 
-Connecting users with gyms through mobile technology
+Mobile application connecting users with gyms
 
-**⚡ Key Features:**
-- 🗺️ Real-time GPS gym discovery
-- 📱 QR code smart check-in
-- 💪 AI-powered workout plans
-- 🥗 Personalized nutrition tracker
-- 📊 Advanced analytics
-- 👥 Social community
+**Key Features:**
+- Real-time GPS gym discovery
+- QR code smart check-in system
+- AI-powered workout plans
+- Personalized nutrition tracking
+- Advanced progress analytics
+- Social fitness community
 
-**🎯 Impact:** 500+ users • 4.8★ rating
+**Impact:** 500+ users • 4.8 rating • 15+ gym partners
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🍕 PIZZA MANAGEMENT</h3>
+<h3 align="center">PIZZA MANAGEMENT</h3>
 
 <div align="center">
   
@@ -281,17 +257,17 @@ Connecting users with gyms through mobile technology
 
 **Complete Restaurant Solution**
 
-Full-stack platform for food operations
+Full-stack platform for restaurant operations
 
-**⚡ Key Features:**
-- 🛒 Advanced online ordering
-- 📊 Real-time dashboard
-- 🚚 Intelligent delivery
-- 💳 Payment integration
-- 📱 Responsive design
-- 👨‍💼 Admin panel
+**Key Features:**
+- Advanced online ordering system
+- Real-time analytics dashboard
+- Intelligent delivery routing
+- Multi-payment integration
+- Responsive mobile-first design
+- Comprehensive admin panel
 
-**🎯 Tech:** Laravel • PHP • MySQL
+**Tech Stack:** Laravel • PHP • MySQL • Bootstrap
 
 </div>
 
@@ -300,7 +276,7 @@ Full-stack platform for food operations
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏨 HOTEL BOOKING</h3>
+<h3 align="center">HOTEL BOOKING</h3>
 
 <div align="center">
   
@@ -314,22 +290,22 @@ Full-stack platform for food operations
 
 Professional hotel management platform
 
-**⚡ Key Features:**
-- 🔍 Smart search & filtering
-- 📅 Dynamic availability
-- 💰 Intelligent pricing
-- 📊 Analytics dashboard
-- 🔐 Secure payments
-- 📈 Revenue optimization
+**Key Features:**
+- Smart search and filtering
+- Dynamic availability system
+- Intelligent pricing engine
+- Business analytics dashboard
+- Secure payment processing
+- Revenue optimization tools
 
-**🎯 Tech:** Spring Boot • Java • MySQL
+**Architecture:** Spring Boot • Microservices • MySQL
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 REGIONAL WEBSITE</h3>
+<h3 align="center">REGIONAL WEBSITE</h3>
 
 <div align="center">
   
@@ -341,17 +317,17 @@ Professional hotel management platform
 
 **Government Digital Platform**
 
-Official Drâa-Tafilalet website
+Official website for Drâa-Tafilalet region
 
-**⚡ Key Features:**
-- 🎨 Custom architecture
-- ⚡ Fast performance
-- 📈 SEO (+45% visibility)
-- 📱 Responsive design
-- 🔧 Custom plugins
-- 🚀 Advanced caching
+**Key Features:**
+- Custom WordPress architecture
+- Lightning-fast performance
+- SEO optimization (+45% visibility)
+- Fully responsive design
+- Custom plugin ecosystem
+- Advanced caching system
 
-**🎯 Internship:** Summer 2024
+**Achievement:** Professional internship project 2024
 
 </div>
 
@@ -373,12 +349,12 @@ Official Drâa-Tafilalet website
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wailaourram&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF&fire_color=FF1493&count_private=true&include_all_commits=true&custom_title=⚡%20GITHUB%20STATS%20⚡" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wailaourram&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=GITHUB%20STATS" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wailaourram&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF1493&currStreakLabel=00F5FF&dates=FFFFFF" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wailaourram&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true&custom_title=⚡%20CONTRIBUTION%20GRAPH%20⚡" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wailaourram&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20GRAPH" width="95%"/>
 
 </div>
 
@@ -402,48 +378,50 @@ Official Drâa-Tafilalet website
 
 <div align="center">
 
-### 💼 WORK EXPERIENCE
+### WORK EXPERIENCE
 
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="300">
 
 </div>
 
 **Web Development Intern**  
-🏢 Drâa-Tafilalet Regional Government  
-📅 July - August 2024 • 2 months
+Drâa-Tafilalet Regional Government  
+July - August 2024 • 2 months
 
 **Achievements:**
-- ✅ Designed institutional website
-- ✅ SEO improvement: +45%
-- ✅ Custom WordPress solutions
-- ✅ Performance optimization
-- ✅ Client satisfaction: High
+- Designed and deployed institutional website
+- SEO improvement: +45% organic traffic
+- Custom WordPress theme development
+- Plugin architecture implementation
+- Performance optimization: 40% faster
+- High client satisfaction rating
 
-**Technologies:** WordPress • PHP • MySQL • JavaScript
+**Technologies:** WordPress • PHP • MySQL • JavaScript • SEO
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 🎓 EDUCATION
+### EDUCATION
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="300">
 
 </div>
 
 **DUT - Web & Mobile Development**  
-🏫 EST Nador - UMP  
-📅 2023 - 2025 • Graduate
+EST Nador - Université Mohammed Premier  
+2023 - 2025 • Graduate
 
 **Curriculum:**
-- ✅ Mobile app development
-- ✅ Full-stack web engineering
-- ✅ Database architecture
-- ✅ Software engineering
-- ✅ Agile methodologies
+- Advanced mobile application development
+- Full-stack web engineering
+- Database architecture and design
+- Software engineering principles
+- Agile and Scrum methodologies
+- DevOps and Cloud computing
 
-**Baccalauréat** • Sciences Physiques • 2021
+**Baccalauréat Sciences Physiques** • 2021
 
 </td>
 </tr>
@@ -469,37 +447,38 @@ Official Drâa-Tafilalet website
 
 <div align="center">
 
-### 🎯 Core Skills
+### Core Skills
 
 </div>
 
-⭐ Problem Solving  
-⭐ Team Collaboration  
-⭐ Fast Learning  
-⭐ Communication  
-⭐ Time Management  
-⭐ Creativity  
-⭐ Adaptability
+- Problem Solving
+- Team Collaboration
+- Fast Learning
+- Communication
+- Time Management
+- Creativity
+- Adaptability
+- Critical Thinking
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 🌍 Languages
+### Languages
 
 </div>
 
-**Arabic** 🇲🇦 - Native  
-**French** 🇫🇷 - Fluent  
-**English** 🇬🇧 - Professional
+**Arabic** - Native  
+**French** - Fluent  
+**English** - Professional
 
 <br>
 
-**Currently Learning:**  
-☁️ Cloud Architecture  
-🤖 AI Integration  
-📊 System Design
+**Currently Learning:**
+- Cloud Architecture
+- AI Integration
+- System Design Patterns
 
 </td>
 </tr>
@@ -512,7 +491,7 @@ Official Drâa-Tafilalet website
 
 <br>
 
-<!-- Connect Section - NO CODE -->
+<!-- Connect Section -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384c35-4b1c-4b96-8a4c-8b45c8c1a78e.png" width="50"> LET'S CONNECT <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384c35-4b1c-4b96-8a4c-8b45c8c1a78e.png" width="50">
@@ -520,26 +499,29 @@ Official Drâa-Tafilalet website
 <br>
 
 <a href="https://linkedin.com/in/wail-aourram" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&logoSize=auto" height="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-<a href="mailto:aourramwail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=for-the-badge&logoSize=auto" height="40"/>
+<a href="mailto:wail.aourram.23@ump.ac.ma">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
 <a href="https://github.com/wailaourram" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=for-the-badge&logoSize=auto" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
 
 <br><br>
 
-
+**Email:** wail.aourram.23@ump.ac.ma  
+**Location:** Tétouan, Morocco  
+**Status:** Open to opportunities  
+**Remote:** Available worldwide
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=⚡+THANKS+FOR+VISITING!+⚡;🚀+LET'S+BUILD+THE+FUTURE!+🚀;💻+ALWAYS+CODING%2C+ALWAYS+LEARNING!+💻" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=THANKS+FOR+VISITING;LET'S+BUILD+THE+FUTURE;ALWAYS+CODING+ALWAYS+LEARNING" alt="Typing SVG" />
 
 <br>
 
-**🌟 Made with 💜 by Wail AOURRAM 🌟**
+**Made with passion by Wail AOURRAM**
 
 **© 2025 • All Rights Reserved**
 
